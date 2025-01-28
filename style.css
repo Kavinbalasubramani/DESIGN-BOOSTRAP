@@ -192,6 +192,9 @@ body{
 #size div{
     font-size: 13px;
 }
+.imgs img{
+    padding: 5px;
+}
 
 #image1{
     background-image: url(l8.jpg);
